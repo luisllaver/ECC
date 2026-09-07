@@ -62,6 +62,8 @@ insurtech-stock-dinamico/
     ip-protection.md         - Estrategia de propiedad intelectual
   business/
     business-model.md        - Modelo de negocio detallado
+    defensibility-moat.md    - Estrategia de defensibilidad (6 capas)
+    contract-key-points.md   - Puntos clave del contrato + exclusividad
     pitch-deck-outline.md    - Estructura del pitch para LinkUp
     financial-projections.md - Proyecciones financieras
   technical/
