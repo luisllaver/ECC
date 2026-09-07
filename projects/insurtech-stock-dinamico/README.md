@@ -60,6 +60,7 @@ insurtech-stock-dinamico/
     market-analysis.md       - Analisis de mercado y competencia
     regulatory.md            - Marco regulatorio detallado
     ip-protection.md         - Estrategia de propiedad intelectual
+    insurers-landscape.md    - Mapa de aseguradoras AR + capacidad internacional
   business/
     business-model.md        - Modelo de negocio detallado
     defensibility-moat.md    - Estrategia de defensibilidad (6 capas)
